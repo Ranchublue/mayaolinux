@@ -1,0 +1,2 @@
+# mayaolinux
+ubuntu
